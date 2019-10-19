@@ -20,7 +20,6 @@ Plugin 'tpope/vim-surround'
 Plugin 'rodjek/vim-puppet'
 Plugin 'drmingdrmer/xptemplate'
 Plugin 'ErichDonGubler/vim-sublime-monokai'
-Plugin 'Valloric/YouCompleteMe'
 
 Plugin 'MarcWeber/vim-addon-mw-utils'
 Plugin 'tomtom/tlib_vim'
