@@ -8,3 +8,6 @@ git config --global user.name "$GIT_AUTHOR_NAME"
 GIT_AUTHOR_EMAIL="masrur@compute.club"
 GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
 git config --global user.email "$GIT_AUTHOR_EMAIL"
+
+# Hide warning from mac
+export BASH_SILENCE_DEPRECATION_WARNING=1
